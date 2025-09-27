@@ -1,45 +1,45 @@
 #EXTM3U
 #EXTGRP:香港频道
 #EXTINF:-1 group-title="香港频道",翡翠台
-https://iptv.catvod.com/catvod_com.php?id=jade_twn&token=90259d543052287cc7dcc1c24802649d6b7090b084adf81e669bb67b0a7283fe%3A1758847060%3AMTQ1LjEzMi4xMDIuMjUw&replay=1&days=7
+https://iptv.catvod.com/catvod_com.php?id=jade_twn&token=3203af906fe7c4b1e1486fece8750114009cac1148b352f8535857ef6c20af86%3A1758933508%3ANjQuMjM2LjE3Ni4yMjY%3D&replay=1&days=7
 
 #EXTGRP:央视频道
 #EXTINF:-1 group-title="央视频道",CCTV-6
-https://iptv.catvod.com/catvod_com.php?id=cctv6&token=f108913946db6aae0b2de085259ab6670e42ccae2c07687dac557f5e2f06eaba%3A1758847060%3AMTQ1LjEzMi4xMDIuMjUw&replay=1&days=7
+https://iptv.catvod.com/catvod_com.php?id=cctv6&token=6bbedd9e515e8902e27d079c31fae3638f93d8ff715b36ff8cd64f20f08ed0f8%3A1758933508%3ANjQuMjM2LjE3Ni4yMjY%3D&replay=1&days=7
 
 #EXTGRP:卫视频道
 #EXTINF:-1 group-title="卫视频道",湖南卫视
-https://iptv.catvod.com/catvod_com.php?id=hunan_twn&token=adc0448aba701b2582d5bdb897727659bb0d530e7101a72221172ae2d8239b91%3A1758847060%3AMTQ1LjEzMi4xMDIuMjUw&replay=1&days=7
+https://iptv.catvod.com/catvod_com.php?id=hunan_twn&token=2ccb9a332a80cace2090e3bb2a55e298c618aa90bca5794d2e150c28121105d7%3A1758933508%3ANjQuMjM2LjE3Ni4yMjY%3D&replay=1&days=7
 #EXTINF:-1 group-title="卫视频道",浙江卫视
-https://iptv.catvod.com/catvod_com.php?id=zhejiang_twn&token=fc4afe162815fda26bfef5698f46b1efc0955d60730c26c6ef9bf9f693145c51%3A1758847060%3AMTQ1LjEzMi4xMDIuMjUw&replay=1&days=7
+https://iptv.catvod.com/catvod_com.php?id=zhejiang_twn&token=f0989440ff98b3ecddb73c8650c9c110d57893ebcb4c67ad360cc6a9b6bfa716%3A1758933508%3ANjQuMjM2LjE3Ni4yMjY%3D&replay=1&days=7
 #EXTINF:-1 group-title="卫视频道",江苏卫视
-https://iptv.catvod.com/catvod_com.php?id=jiangsu_twn&token=e3c42a99f099c6257f9b7da74b1f85d3b607bf1754929e972a4b786b91f4a1bc%3A1758847060%3AMTQ1LjEzMi4xMDIuMjUw&replay=1&days=7
+https://iptv.catvod.com/catvod_com.php?id=jiangsu_twn&token=fc3450fef2120e6c75333d30b61cf38fcd274e2932bc93befb316deeab26fee7%3A1758933508%3ANjQuMjM2LjE3Ni4yMjY%3D&replay=1&days=7
 #EXTINF:-1 group-title="卫视频道",深圳卫视
-https://iptv.catvod.com/catvod_com.php?id=shenzhen&token=b3265f05a30d72396c969b0bb8abcf06aa3c0facb0035c670e6adffb6fe53cfa%3A1758847060%3AMTQ1LjEzMi4xMDIuMjUw&replay=1&days=7
+https://iptv.catvod.com/catvod_com.php?id=shenzhen&token=d4c6364a598cefc2836fe98e87817fb81f2e54317e2c916a6a0c8540410e2819%3A1758933508%3ANjQuMjM2LjE3Ni4yMjY%3D&replay=1&days=7
 #EXTINF:-1 group-title="卫视频道",广东卫视
-https://iptv.catvod.com/catvod_com.php?id=guangdongweishi_twn&token=a5e81c2025328808aba9f362f7c72100e1fe8b573f90eb8ff2814d63d026c690%3A1758847060%3AMTQ1LjEzMi4xMDIuMjUw&replay=1&days=7
+https://iptv.catvod.com/catvod_com.php?id=guangdongweishi_twn&token=3ec01f9946a2ceb646e57f4b875d8a7f73a8db971d4f3c8102942afce0bb680a%3A1758933508%3ANjQuMjM2LjE3Ni4yMjY%3D&replay=1&days=7
 #EXTINF:-1 group-title="卫视频道",北京卫视
-https://iptv.catvod.com/catvod_com.php?id=beijing&token=82ee4c306e7f7ee9c379e96c3c020ee93bef9ba32232a1b3b87abfb7b16801dd%3A1758847060%3AMTQ1LjEzMi4xMDIuMjUw&replay=1&days=7
+https://iptv.catvod.com/catvod_com.php?id=beijing&token=8ca02b323586fda9e5c84972611036d45dad5a5e90db7bc51c6bfbb04dbc0f29%3A1758933508%3ANjQuMjM2LjE3Ni4yMjY%3D&replay=1&days=7
 #EXTINF:-1 group-title="卫视频道",广西卫视
-https://iptv.catvod.com/catvod_com.php?id=guangxi&token=80c7fb8ea87a8c4cbb60f670ebb6c43d1e10538b461e7ef80d93b9986c9427c9%3A1758847060%3AMTQ1LjEzMi4xMDIuMjUw&replay=1&days=7
+https://iptv.catvod.com/catvod_com.php?id=guangxi&token=6176a0b3634c29ceb5745bb8dbe27c740c0a5d987a0e6de9040896b55c9125ca%3A1758933508%3ANjQuMjM2LjE3Ni4yMjY%3D&replay=1&days=7
 #EXTINF:-1 group-title="卫视频道",湖北卫视
-https://iptv.catvod.com/catvod_com.php?id=hubei&token=e9d977ee5f01601245fa94f8aa40e9cf60dc04c050416972eacc7d438b64967b%3A1758847060%3AMTQ1LjEzMi4xMDIuMjUw&replay=1&days=7
+https://iptv.catvod.com/catvod_com.php?id=hubei&token=25285e6637fe6150439319e4e4bf8b345e242cc216b1c0d5c8acb669e22ab3b3%3A1758933508%3ANjQuMjM2LjE3Ni4yMjY%3D&replay=1&days=7
 #EXTINF:-1 group-title="卫视频道",四川卫视
-https://iptv.catvod.com/catvod_com.php?id=sichuan_twn&token=3677081a172f7f08c1936e34121690443d89cc9409c606674e09b6d5df49ba34%3A1758847060%3AMTQ1LjEzMi4xMDIuMjUw&replay=1&days=7
+https://iptv.catvod.com/catvod_com.php?id=sichuan_twn&token=f7d0e269119eed259530f92213cf4469943ea0e03b6a002090dd64a37f427a59%3A1758933508%3ANjQuMjM2LjE3Ni4yMjY%3D&replay=1&days=7
 #EXTINF:-1 group-title="卫视频道",东方卫视
-https://iptv.catvod.com/catvod_com.php?id=dongfangweishi_twn&token=ba7aad483c83c9ab2348bafc96b23e890d1f575a8ef8d3f03917fd2faca010b2%3A1758847060%3AMTQ1LjEzMi4xMDIuMjUw&replay=1&days=7
+https://iptv.catvod.com/catvod_com.php?id=dongfangweishi_twn&token=7128f704b2f0fa1e8e978689b3815090a66d168c0d286c9b6ef6c12e1648d482%3A1758933508%3ANjQuMjM2LjE3Ni4yMjY%3D&replay=1&days=7
 
 #EXTGRP:台湾频道
 #EXTINF:-1 group-title="台湾频道",东森超视
-https://iptv.catvod.com/catvod_com.php?id=ettvsuper&token=3c71de73bc3ac15b6a2e78601a6efc8b400cb0b4819a3705370c30f1e4c62551%3A1758847060%3AMTQ1LjEzMi4xMDIuMjUw&replay=1&days=7
+https://iptv.catvod.com/catvod_com.php?id=ettvsuper&token=3af3040b2986fa00b052f796735802e44db1e75bf1c2d2c46d97eb198da89dc1%3A1758933508%3ANjQuMjM2LjE3Ni4yMjY%3D&replay=1&days=7
 
 #EXTGRP:电影频道
 #EXTINF:-1 group-title="电影频道",Animax
-https://iptv.catvod.com/catvod_com.php?id=Animax&token=3a429ba5b5abb84a68a83f5d8b25a1c6d5a2c9c0200df37a497cc1ddf7664708%3A1758847060%3AMTQ1LjEzMi4xMDIuMjUw&replay=1&days=7
+https://iptv.catvod.com/catvod_com.php?id=Animax&token=14f2a46dbc4f17a2619b4f9b2665a11e27a3600950fd4b17213c1e316076cc1b%3A1758933508%3ANjQuMjM2LjE3Ni4yMjY%3D&replay=1&days=7
 
 #EXTGRP:记录频道
 #EXTINF:-1 group-title="记录频道",Discovery Asia
-https://iptv.catvod.com/catvod_com.php?id=discoverytwn_twn&token=e1c4be5aae30b2633d88d5030e8594d316c9713137ea6fc0aeed63b94892020d%3A1758847060%3AMTQ1LjEzMi4xMDIuMjUw&replay=1&days=7
+https://iptv.catvod.com/catvod_com.php?id=discoverytwn_twn&token=f8c304e75c0a6deff11c7d1e803f2143c1c063c43b5993c1f1cfa34dbd06148f%3A1758933508%3ANjQuMjM2LjE3Ni4yMjY%3D&replay=1&days=7
 
 #EXTGRP:央卫直播①,
 #EXTINF:-1 group-title="央卫直播①",云南卫视
