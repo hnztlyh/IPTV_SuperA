@@ -1,29 +1,30 @@
-香港频道#genre#
-翡翠台,https://iptv.catvod.com/catvod_com.php?id=jade_twn&token=3203af906fe7c4b1e1486fece8750114009cac1148b352f8535857ef6c20af86%3A1758933508%3ANjQuMjM2LjE3Ni4yMjY%3D
+港澳台,#genre#
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+澳门莲花,http://php.jdshipin.com:8880/amlh.php
+明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+明珠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
+无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
+广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
+娱乐新闻台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+千禧经典台,http://php.jdshipin.com:8880/xsj.php?id=tvb-classic
+千禧经典台, http://php.jdshipin.com/smt.php?id=Tvbclassic
+TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
+TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxh
+TVB星河,http://cdn9.163189.xyz/smt1.1.php?id=Xinhe
+TVB星河, http://php.jdshipin.com/smt.php?id=Xinhe
+TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
+TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
+TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
+TVB Plus,http://cdn.132.us.kg/live/tvbp/stream.m3u8
+J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn
 
-央视频道#genre#
-CCTV-6,https://iptv.catvod.com/catvod_com.php?id=cctv6&token=6bbedd9e515e8902e27d079c31fae3638f93d8ff715b36ff8cd64f20f08ed0f8%3A1758933508%3ANjQuMjM2LjE3Ni4yMjY%3D
-
-卫视频道#genre#
-湖南卫视,https://iptv.catvod.com/catvod_com.php?id=hunan_twn&token=2ccb9a332a80cace2090e3bb2a55e298c618aa90bca5794d2e150c28121105d7%3A1758933508%3ANjQuMjM2LjE3Ni4yMjY%3D
-浙江卫视,https://iptv.catvod.com/catvod_com.php?id=zhejiang_twn&token=f0989440ff98b3ecddb73c8650c9c110d57893ebcb4c67ad360cc6a9b6bfa716%3A1758933508%3ANjQuMjM2LjE3Ni4yMjY%3D
-江苏卫视,https://iptv.catvod.com/catvod_com.php?id=jiangsu_twn&token=fc3450fef2120e6c75333d30b61cf38fcd274e2932bc93befb316deeab26fee7%3A1758933508%3ANjQuMjM2LjE3Ni4yMjY%3D
-深圳卫视,https://iptv.catvod.com/catvod_com.php?id=shenzhen&token=d4c6364a598cefc2836fe98e87817fb81f2e54317e2c916a6a0c8540410e2819%3A1758933508%3ANjQuMjM2LjE3Ni4yMjY%3D
-广东卫视,https://iptv.catvod.com/catvod_com.php?id=guangdongweishi_twn&token=3ec01f9946a2ceb646e57f4b875d8a7f73a8db971d4f3c8102942afce0bb680a%3A1758933508%3ANjQuMjM2LjE3Ni4yMjY%3D
-北京卫视,https://iptv.catvod.com/catvod_com.php?id=beijing&token=8ca02b323586fda9e5c84972611036d45dad5a5e90db7bc51c6bfbb04dbc0f29%3A1758933508%3ANjQuMjM2LjE3Ni4yMjY%3D
-广西卫视,https://iptv.catvod.com/catvod_com.php?id=guangxi&token=6176a0b3634c29ceb5745bb8dbe27c740c0a5d987a0e6de9040896b55c9125ca%3A1758933508%3ANjQuMjM2LjE3Ni4yMjY%3D
-湖北卫视,https://iptv.catvod.com/catvod_com.php?id=hubei&token=25285e6637fe6150439319e4e4bf8b345e242cc216b1c0d5c8acb669e22ab3b3%3A1758933508%3ANjQuMjM2LjE3Ni4yMjY%3D
-四川卫视,https://iptv.catvod.com/catvod_com.php?id=sichuan_twn&token=f7d0e269119eed259530f92213cf4469943ea0e03b6a002090dd64a37f427a59%3A1758933508%3ANjQuMjM2LjE3Ni4yMjY%3D
-东方卫视,https://iptv.catvod.com/catvod_com.php?id=dongfangweishi_twn&token=7128f704b2f0fa1e8e978689b3815090a66d168c0d286c9b6ef6c12e1648d482%3A1758933508%3ANjQuMjM2LjE3Ni4yMjY%3D
-
-台湾频道#genre#
-东森超视,https://iptv.catvod.com/catvod_com.php?id=ettvsuper&token=3af3040b2986fa00b052f796735802e44db1e75bf1c2d2c46d97eb198da89dc1%3A1758933508%3ANjQuMjM2LjE3Ni4yMjY%3D
-
-电影频道#genre#
-Animax,https://iptv.catvod.com/catvod_com.php?id=Animax&token=14f2a46dbc4f17a2619b4f9b2665a11e27a3600950fd4b17213c1e316076cc1b%3A1758933508%3ANjQuMjM2LjE3Ni4yMjY%3D
-
-记录频道#genre#
-Discovery Asia,https://iptv.catvod.com/catvod_com.php?id=discoverytwn_twn&token=f8c304e75c0a6deff11c7d1e803f2143c1c063c43b5993c1f1cfa34dbd06148f%3A1758933508%3ANjQuMjM2LjE3Ni4yMjY%3D
+大杂烩,#genre#
+TVB Plus,http://8hb85846je10.vicp.fun:5000/bysid/82
 
 央卫直播①,#genre#
 云南卫视,http://111.43.126.240:9003/hls/60/index.m3u8
@@ -41,7 +42,6 @@ Discovery Asia,https://iptv.catvod.com/catvod_com.php?id=discoverytwn_twn&token=
 超级综艺,http://111.43.126.240:9003/hls/87/index.m3u8
 
 央卫直播,#genre#
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 CETV1,http://ygbh.site/php/bfgd.php?id=135
 CETV2,http://ygbh.site/php/bfgd.php?id=492
 北京卫视,http://ygbh.site/php/bfgd.php?id=083
@@ -79,6 +79,7 @@ CETV2,http://ygbh.site/php/bfgd.php?id=492
 云南卫视,http://ygbh.site/php/bfgd.php?id=115
 浙江卫视,http://ygbh.site/php/bfgd.php?id=094
 安徽卫视,http://ygbh.site/php/bfgd.php?id=096
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://sh.lnott.top:880/dx32.m3u8
 辽宁卫视,http://sh.lnott.top:880/dx19.m3u8
 湖南卫视,http://sh.lnott.top:880/dx31.m3u8
