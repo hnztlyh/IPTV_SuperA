@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTGRP:港澳台,
-#EXTINF:-1 group-title="港澳台",TVB Plus
-http://cdn.132.us.kg/live/tvbp/stream.m3u8&replay=1&days=7
 #EXTINF:-1 group-title="港澳台",广东珠江
 http://cdn2.163189.xyz/live/gdzj/stream.m3u8&replay=1&days=7
-#EXTINF:-1 group-title="港澳台",千禧经典台
- http://php.jdshipin.com/smt.php?id=Tvbclassic&replay=1&days=7
 #EXTINF:-1 group-title="港澳台",广东体育
 http://cdn2.163189.xyz/live/gdty/stream.m3u8&replay=1&days=7
+#EXTINF:-1 group-title="港澳台",TVB Plus
+http://cdn.132.us.kg/live/tvbp/stream.m3u8&replay=1&days=7
+#EXTINF:-1 group-title="港澳台",千禧经典台
+ http://php.jdshipin.com/smt.php?id=Tvbclassic&replay=1&days=7
 #EXTINF:-1 group-title="港澳台",TVBS新闻
 http://61.221.215.25:8800/hls/9/index.m3u8&replay=1&days=7
 #EXTINF:-1 group-title="港澳台",香港卫视
